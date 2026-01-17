@@ -15,9 +15,13 @@ const Footer = () => {
                             Empowering the next generation of Zimbabwean entrepreneurs through structured learning and global mentorship. Join our premium virtual incubator today.
                         </p>
                         <div className="flex gap-4">
-                            {['Twitter', 'LinkedIn', 'Instagram'].map(social => (
-                                <a key={social} href="#" className="w-10 h-10 rounded-full bg-slate-800 flex items-center justify-center hover:bg-primary-light transition-colors group">
-                                    <span className="sr-only">{social}</span>
+                            {[
+                                { name: 'Twitter', href: '#' },
+                                { name: 'LinkedIn', href: '#' },
+                                { name: 'Instagram', href: 'https://www.instagram.com/myfounders_club?igsh=MWVrOTh6Y25jNmV6eA==' }
+                            ].map(social => (
+                                <a key={social.name} href={social.href} target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full bg-slate-800 flex items-center justify-center hover:bg-primary-light transition-colors group">
+                                    <span className="sr-only">{social.name}</span>
                                     <div className="w-5 h-5 bg-slate-400 group-hover:bg-white transition-colors"></div>
                                 </a>
                             ))}

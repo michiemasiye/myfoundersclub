@@ -23,17 +23,17 @@ const Hero = () => {
 
                 <p className="text-lg md:text-2xl text-slate-400 mb-10 md:mb-12 max-w-3xl mx-auto leading-relaxed font-medium px-6 md:px-0">
                     The premium virtual incubator for Zimbabwe's boldest founders.
-                    <span className="text-white"> $5 Entry fee.</span> 10 weeks to investment-ready.
+                    <span className="text-white"> $50 Entry fee.</span> 10 weeks to investment-ready.
                 </p>
 
                 <div className="flex flex-col sm:flex-row gap-5 md:gap-6 justify-center items-center">
                     <a
-                        href="https://wa.me/447467492680"
+                        href="https://docs.google.com/forms/d/e/1FAIpQLSeZk59ZmQvm_-7eQ4bHxZyzNr-UIWSD-LCeAxHCZW96-IUKgg/viewform?usp=publish-editor"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="w-full sm:w-auto group relative px-8 md:px-10 py-4 md:py-5 bg-primary-light hover:bg-primary rounded-full font-bold text-base md:text-lg transition-all shadow-[0_0_30px_rgba(109,40,217,0.4)] transform hover:-translate-y-1 hover:scale-105"
                     >
-                        Apply Now - $5 Entry
+                        Apply Now - $50 Entry
                         <div className="absolute inset-0 rounded-full border-2 border-primary-light/50 animate-ping group-hover:hidden"></div>
                     </a>
                     <a

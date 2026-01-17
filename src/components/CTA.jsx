@@ -16,17 +16,17 @@ const CTA = () => {
                         <h2 className="text-5xl md:text-7xl font-black mb-8 tracking-tight text-white leading-tight">Ready to Build Your <br /> <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary-light via-purple-300 to-accent">Legacy?</span></h2>
                         <p className="text-xl md:text-2xl text-slate-300 mb-14 leading-relaxed font-medium">
                             Join the next elite cohort of Zimbabwean entrepreneurs. <br className="hidden md:block" />
-                            Secure your spot for just <span className="text-white font-bold">$5 via EcoCash (Econet 1).</span>
+                            Secure your spot for just <span className="text-white font-bold">$50 via EcoCash.</span>
                         </p>
 
                         <div className="flex flex-col sm:flex-row gap-8 justify-center items-center">
                             <a
-                                href="https://wa.me/447467492680"
+                                href="https://docs.google.com/forms/d/e/1FAIpQLSeZk59ZmQvm_-7eQ4bHxZyzNr-UIWSD-LCeAxHCZW96-IUKgg/viewform?usp=publish-editor"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="group relative px-12 py-6 bg-white text-primary-dark font-black rounded-full text-xl transition-all transform hover:scale-105 shadow-2xl hover:shadow-white/20 z-10"
                             >
-                                Apply via WhatsApp
+                                Apply Now
                                 <div className="absolute inset-0 rounded-full bg-white animate-ping opacity-20 group-hover:hidden"></div>
                             </a>
                             <a
@@ -40,7 +40,7 @@ const CTA = () => {
                         </div>
 
                         <p className="mt-12 text-sm text-slate-500 font-bold uppercase tracking-widest">
-                            *Secure payment handled directly via Econet / WhatsApp flow.
+                            *Secure payment handled via EcoCash after application.
                         </p>
                     </div>
                 </div>

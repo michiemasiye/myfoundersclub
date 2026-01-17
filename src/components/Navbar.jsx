@@ -43,7 +43,7 @@ const Navbar = () => {
                             </a>
                         ))}
                         <a
-                            href="https://wa.me/447467492680"
+                            href="https://docs.google.com/forms/d/e/1FAIpQLSeZk59ZmQvm_-7eQ4bHxZyzNr-UIWSD-LCeAxHCZW96-IUKgg/viewform?usp=publish-editor"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="px-8 py-3 bg-gradient-to-r from-primary-light to-primary-dark hover:shadow-[0_0_20px_rgba(109,40,217,0.4)] text-white rounded-full text-xs font-black uppercase tracking-widest transition-all transform hover:scale-105 active:scale-95 shadow-xl"
@@ -79,7 +79,7 @@ const Navbar = () => {
                         </a>
                     ))}
                     <a
-                        href="https://wa.me/447467492680"
+                        href="https://docs.google.com/forms/d/e/1FAIpQLSeZk59ZmQvm_-7eQ4bHxZyzNr-UIWSD-LCeAxHCZW96-IUKgg/viewform?usp=publish-editor"
                         target="_blank"
                         rel="noopener noreferrer"
                         onClick={() => setIsMenuOpen(false)}
