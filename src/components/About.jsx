@@ -21,10 +21,9 @@ const About = () => {
                                 MyFounders Club is a elite, virtual incubator designed for the hungry and the bold—those who have the drive but lack traditional accelerator access.
                             </p>
                             <div className="p-6 md:p-8 bg-gradient-to-br from-slate-800/50 to-slate-900/50 rounded-2xl md:rounded-3xl border border-slate-700/50 backdrop-blur-md relative group">
-                                <div className="absolute top-0 right-0 p-4 opacity-10 font-black text-4xl md:text-6xl group-hover:opacity-20 transition-opacity">$5</div>
                                 <h3 className="text-white font-bold text-lg md:text-xl mb-3 flex items-center gap-2">
                                     <div className="w-2 h-6 bg-primary-light rounded-full"></div>
-                                    The $5 Core Model
+                                    The Core Model
                                 </h3>
                                 <p className="text-slate-300 text-sm md:text-base">A 10-week high-octane program delivering expert-led workshops, on-demand global resources, and 1-on-1 mentorship—all for a symbolic entry fee.</p>
                             </div>
