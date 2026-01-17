@@ -35,13 +35,13 @@ const curriculum = [
     },
     {
         week: 'Weeks 8-10',
-        title: 'Funding & Demo Day',
+        title: 'Funding & Networking',
         topics: [
             'Funding Options: Grants, Angels, VCs, Crowdfunding',
             'Investor Pitch Deck Crafting',
             'Financial Storytelling & Metrics That Matter',
             'Due Diligence Preparation',
-            'Live Pitch Event (Demo Day)',
+            'Live Pitch Event (Pitching & Networking)',
         ],
     },
 ]

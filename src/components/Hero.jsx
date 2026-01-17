@@ -13,7 +13,7 @@ const Hero = () => {
 
             <div className="container mx-auto px-6 relative z-10 text-center">
                 <div className="mb-10 inline-block animate-fade-in group">
-                    <Logo className="md:scale-[2.5] scale-[2] mx-auto filter group-hover:brightness-110 transition-all duration-500" />
+                    <Logo className="md:scale-[2.2] scale-[1.8] mx-auto filter group-hover:brightness-110 transition-all duration-500" />
                 </div>
 
                 <h1 className="text-5xl md:text-8xl font-black mb-6 tracking-tighter leading-tight px-4 md:px-0">
